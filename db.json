@@ -1,25 +1,6 @@
 {
-     "talkipc": [
-     {
-        "id": 1,
-        "numero": "",
-        "texto": "",
-        "banner": "",
-        "avatar": ""
-      }
-    ],
-     
-     "talkipr": [
-     {
-        "id": 1,
-        "numero": "",
-        "campanha": "",
-        "status": "",
-        "resposta": ""
-      }
-    ],
-     
-     "talkipu": [
+    
+     "goesr": [
      {
         "id": 1,
         "numero": "",
@@ -30,26 +11,17 @@
         "nfile": ""
       }
     ],
-     "renac": [
+     
+     "goesc": [
      {
         "id": 1,
         "numero": "",
         "campanha": "",
         "status": "",
         "resposta": ""
-      }
-    ],
-     
-     "renacr": [
-     {
-        "id": 1,
-        "numero": "",
-        "Mensagem": "",
-        "logo": "",
-        "banner": "",
-        "arquivo": "",
-        "nfile": ""
       }
     ]
+     
+     
  
 }
